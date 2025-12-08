@@ -1,6 +1,6 @@
 ## Hi, I'm Naing Lynn Aung 👋🧑‍💻
 🎓 I'm an Informatics student at [KMUTNB](https://itd.kmutnb.ac.th/en/itd-admission/bachelor/)  
-💡 Passionate about web development, and data science to help business
+💡 Passionate about web development, and data science to help business  
 🌱 I’m currently working on improving my skills   
 📫 How to reach me **nainglynnaung.lynn@gmail.com (or) [facebook](https://www.facebook.com/nainglynnaung.00)**  
 🤝 I’m looking for help with open-source and group projects
